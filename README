@@ -1,0 +1,1 @@
+Grop is a Unix ``grep'' like utility written in Rust. It supports case sensitive and insensitive search in files.
